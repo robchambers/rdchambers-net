@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../tmp-convert/wp2md"
+	}
+],
+  "settings": {}
+}
