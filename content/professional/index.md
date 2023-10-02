@@ -26,13 +26,13 @@ See CV/Resume for a more detailed publication list. Links and PDFs are provided 
 
 ###### _SU Nums, Pubmed ID: 6560 6065, or 6200 6635 DRC Number: 360-4176, DEB Number 802, 999 or 361/0_
 
-# Other Work
+<!-- # Other Work
 
-I'm currently working as a Machine Learning Engineer at Facebook, and before that I worked as the technical lead for the [Pet Insight Project](http://www.petinsight.com), an exciting project at [Whistle](http://www.whistle.com),aiming to improve the lives and health of millions of pets. Previously, I worked at [Creare Engineering R&D,](http://www.creare.com) and then did consulting work after a pretty interesting stretch of travel, meditation, and work activities around the world.
+I'm currently working as a Machine Learning Engineer at Facebook, and before that I worked as the technical lead for the [Pet Insight Project](http://www.petinsight.com), an exciting project at [Whistle](http://www.whistle.com),aiming to improve the lives and health of millions of pets. Previously, I worked at [Creare Engineering R&D,](http://www.creare.com) and then did consulting work after a pretty interesting stretch of travel, meditation, and work activities around the world. -->
 
-### Resume/CV
+<!-- ### Resume/CV
 
-For information on my education and work activities, please visit my **[Resume, CV, and Publications](http://www.rdchambers.net/resume-cv-and-publications/)** page, or my [Linkedin Profile.](https://www.linkedin.com/in/rob-chambers-a2370b3/)
+For information on my education and work activities, please visit my **[Resume, CV, and Publications](http://www.rdchambers.net/resume-cv-and-publications/)** page, or my [Linkedin Profile.](https://www.linkedin.com/in/rob-chambers-a2370b3/) -->
 
 # Other Projects
 
