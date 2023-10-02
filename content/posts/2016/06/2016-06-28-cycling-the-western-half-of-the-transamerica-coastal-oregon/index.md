@@ -1,7 +1,7 @@
 ---
 title: "Cycling the Western Half of the Transamerica: Coastal Oregon."
 date: "2016-06-28"
-categories: 
+categories:
   - "travel"
 coverImage: "sketch-1466784249394.png"
 ---
@@ -14,13 +14,13 @@ The [TransAmerica Trail,](https://www.adventurecycling.org/routes-and-maps/adven
 
 The whole route is about 4,000 miles. But, I'll be damned if I'm going to ride 1,500 miles across the great plains with a headwind reeking of cow shit, so I'm going to stop near the midpoint of Pueblo, Colorado, and head over to Boulder, CO where my next major activity starts on July 19. I'll also skip a bit of the trail due to time constraints, giving me a total mileage of around 1,500 over the course of ~30 days. 50 miles a day seems just about right, since I've done virtually zero training for the ride.
 
-[![sketch-1466784249394](images/sketch-1466784249394-600x337.png)](http://www.rdchambers.net/wp-content/uploads/2016/06/sketch-1466784249394.png)
+[![sketch-1466784249394](images/sketch-1466784249394-600x337.png)](/wp-content/uploads/2016/06/sketch-1466784249394.png)
 
 ### Welcome to Newark Airport, Please Go #$%@ Yourself.
 
 As I had in the past, I used a clear,disposable [CTC bike bag](http://www.wiggle.com/ctc-cycling-uk-plastic-bike-bag/) to prepare my bike for the airlines. The idea is that the baggage handlers see that your baggage is indeed a bike, and consequently they refrain from tossing it off cliffs and packing it below crates filled with elephants, as is their custom. The CTC site has hundreds of positive reviews for these bags, and I have yet to find a review that mentions the bag not being accepted by an airline.
 
-Except for this one. As I approached the Southwest Airlines counter in Newark, a venomous looking middle-aged man began shrieking "He can't take that! He can't take that!". Clearly, nobody else cared, and he wasn't even checking me in. However, his unusual passion for ruining my day prevailed over the attitude of the other Newark Airport employees, whose spiteful malevolence is of course usually held in check by their laziness. Consequently, even after getting a supervisor involved, it was clear that I was not getting on the flight. What was most enraging was the _pleasure_ that these people took in pointing out the failings of my bicycle bag. They even claimed that this was "for my own protection", when I clearly was completely willing to take on the risk of bicycle damage. Southwest's policy is that I simply need to sign a liability waiver to use a soft-side case. I'm sure that with virtually any other Southwest location, I would have gotten on the plane without a hitch
+Except for this one. As I approached the Southwest Airlines counter in Newark, a venomous looking middle-aged man began shrieking "He can't take that! He can't take that!". Clearly, nobody else cared, and he wasn't even checking me in. However, his unusual passion for ruining my day prevailed over the attitude of the other Newark Airport employees, whose spiteful malevolence is of course usually held in check by their laziness. Consequently, even after getting a supervisor involved, it was clear that I was not getting on the flight. What was most enraging was the *pleasure* that these people took in pointing out the failings of my bicycle bag. They even claimed that this was "for my own protection", when I clearly was completely willing to take on the risk of bicycle damage. Southwest's policy is that I simply need to sign a liability waiver to use a soft-side case. I'm sure that with virtually any other Southwest location, I would have gotten on the plane without a hitch
 
 Alas, I gave up, cancelled my ticket, and was worried that my trip was over before it started.
 
@@ -28,29 +28,29 @@ Luckily, a fortuitous sequence of events transpired. First, I was able to get a 
 
 Secondly, my Dad and my stepmother Suzie happened to be staying at a swanky boutique motel nearby. So, I was able to use the free hotel shuttle back and forth (getting a bike in a taxi is not straightforward), and stay with them for the night. It was amazing!
 
-\[caption id="attachment\_1103" align="aligncenter" width="600"\][![IMG_20160608_093552891_TOP](images/IMG_20160608_093552891_TOP-600x466.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160608_093552891_TOP.jpg) Dad and Suzie in the airport. We randomly ended up with flights that left within an hour of each other from the same terminal.\[/caption\]
+\[caption id="attachment_1103" align="aligncenter" width="600"\][![IMG_20160608_093552891_TOP](images/IMG_20160608_093552891_TOP-600x466.jpg)](/wp-content/uploads/2016/06/IMG_20160608_093552891_TOP.jpg) Dad and Suzie in the airport. We randomly ended up with flights that left within an hour of each other from the same terminal.\[/caption\]
 
 ### Everything Gets Better The Further You Are From Newark
 
 I arrived in the Portland airport safe and sound, along with my bike, which suffered only a broken spoke and handlebar bag mount.
 
-\[caption id="attachment\_1101" align="aligncenter" width="600"\][![IMG_20160608_173006947](images/IMG_20160608_173006947-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160608_173006947.jpg) My bike arriving in its CTC bike bag, and my bike panniers all loaded together in a big cheap suitcase (to save on extra bag fees).\[/caption\]
+\[caption id="attachment_1101" align="aligncenter" width="600"\][![IMG_20160608_173006947](images/IMG_20160608_173006947-600x450.jpg)](/wp-content/uploads/2016/06/IMG_20160608_173006947.jpg) My bike arriving in its CTC bike bag, and my bike panniers all loaded together in a big cheap suitcase (to save on extra bag fees).\[/caption\]
 
-By the way, I know that this is common knowledge, but it is just fantastic to bike in Portland. Check out this _bicycle reassembly station_ at the Portland airport, complete with a bike stand and tons of tools.
+By the way, I know that this is common knowledge, but it is just fantastic to bike in Portland. Check out this *bicycle reassembly station* at the Portland airport, complete with a bike stand and tons of tools.
 
-\[caption id="attachment\_1102" align="aligncenter" width="450"\][![IMG_20160608_173618078](images/IMG_20160608_173618078-450x600.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160608_173618078.jpg) Bicycle reassembly station in Portland Airport\[/caption\]
+\[caption id="attachment_1102" align="aligncenter" width="450"\][![IMG_20160608_173618078](images/IMG_20160608_173618078-450x600.jpg)](/wp-content/uploads/2016/06/IMG_20160608_173618078.jpg) Bicycle reassembly station in Portland Airport\[/caption\]
 
 I used the awesome Portland light rail to get to my expensive yet decrepit motel populated by meth-heads and homeless people (how do these people always afford to live in these hotels?!), which by the way did not have hot water. I reassembled the bike (no problems there, luckily) and biked to the historic Union Station early in the morning.
 
-[![IMG_20160609_083734990](images/IMG_20160609_083734990-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160609_083734990.jpg)
+[![IMG_20160609_083734990](images/IMG_20160609_083734990-600x450.jpg)](/wp-content/uploads/2016/06/IMG_20160609_083734990.jpg)
 
 I took the awesome [Northwest Point](http://www.oregon-point.com/nw_point.php) shuttle from Portland to Astoria. They let me take my bike fully assembled in the luggage compartment for $5, God bless them. (Greyhound and most Amtrak routes make you box the bike, and in most cases won't sell you the box, which is terribly inconvenient.)
 
-[![IMG_20160609_115711598](images/IMG_20160609_115711598-600x344.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160609_115711598.jpg)
+[![IMG_20160609_115711598](images/IMG_20160609_115711598-600x344.jpg)](/wp-content/uploads/2016/06/IMG_20160609_115711598.jpg)
 
 After navigating the mess of mentally ill beach bums who seem to inhabit all coastal cities with good bus service, I was off and biking! I immediately learned that the Transam is not a signed route, which for some reason was surprising to me. It basically just piggybacks on existing automobile infrastructure. However, with a combination of my cell phone and the maps, it is easy to navigate.
 
-\[caption id="attachment\_1106" align="aligncenter" width="600"\][![IMG_20160609_131643007](images/IMG_20160609_131643007-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160609_131643007.jpg) Astoria, Oregon: start of the Transam at the mouth of the Columbia River. The pilings are from long-gone factories, and the bike route manages to combine longitudinally-running wooden slats with an actual railroad track, just to ensure that you fall and suffer wood splinters from head to toe.\[/caption\]
+\[caption id="attachment_1106" align="aligncenter" width="600"\][![IMG_20160609_131643007](images/IMG_20160609_131643007-600x450.jpg)](/wp-content/uploads/2016/06/IMG_20160609_131643007.jpg) Astoria, Oregon: start of the Transam at the mouth of the Columbia River. The pilings are from long-gone factories, and the bike route manages to combine longitudinally-running wooden slats with an actual railroad track, just to ensure that you fall and suffer wood splinters from head to toe.\[/caption\]
 
 ### The Oregon Coast
 
@@ -68,4 +68,4 @@ The temperatures and road conditions were so bad that, after climbing the uphill
 
 After a few days on the coast, the path began to cut inland across the coastal range. Since each mountain range tends to decrease the amount of rain reaching inland, I was happy for the change. And, as I veered off the 101 onto a barely-traveled back road that meandered through the coastal foothills into the thick verdant forests, the weather began to clear up, just for a few hours, and I knew that this trip was going to have good things in store for me.
 
-\[caption id="attachment\_1111" align="aligncenter" width="600"\][![IMG_20160611_172715079_HDR](images/IMG_20160611_172715079_HDR-600x600.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160611_172715079_HDR.jpg) Cutting inland from the Oregon coast, across the coastal range towards Salem, Ore.\[/caption\]
+\[caption id="attachment_1111" align="aligncenter" width="600"\][![IMG_20160611_172715079_HDR](images/IMG_20160611_172715079_HDR-600x600.jpg)](/wp-content/uploads/2016/06/IMG_20160611_172715079_HDR.jpg) Cutting inland from the Oregon coast, across the coastal range towards Salem, Ore.\[/caption\]

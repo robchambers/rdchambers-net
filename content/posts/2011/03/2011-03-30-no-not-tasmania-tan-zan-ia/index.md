@@ -1,7 +1,7 @@
 ---
 title: "No, not Tasmania. “Tan-zan-ia.”"
 date: "2011-03-30"
-categories: 
+categories:
   - "travel"
 coverImage: "map-9ee76b7d5c7b.jpg"
 ---
@@ -22,7 +22,7 @@ Anyways, back to my travels.
 
 My biggest surprise so far is to see how wealthy and well-managed Dar Es Salaam (the city where I’m staying) seems to be. Granted, any comparison I make are to India, which is difficult to beat when it comes to disfunctionality and suffering. But, check out this rather typical view from inside our car:
 
-[![P1010398](images/P1010398_thumb-300x224.jpg "P1010398")](http://www.rdchambers.net/wp-content/uploads/2011/03/P1010398_thumb.jpg)
+[![P1010398](images/P1010398_thumb-300x224.jpg "P1010398")](/wp-content/uploads/2011/03/P1010398_thumb.jpg)
 
 What’s that… pruned bushes? Roads without gaping potholes? No cows in the road? Most cars manufactured within the past decade, and comprising four or more wheels and a working muffler? This is certainly not a level of wealth and sophistication that I expected from one of the poorer countries in Africa. Of course, this is one of the richest parts of Tanzania. But, still, it makes me realize how unbelievably poor some of the areas of India were that I visited.
 

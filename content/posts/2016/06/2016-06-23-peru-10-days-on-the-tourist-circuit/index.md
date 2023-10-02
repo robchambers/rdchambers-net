@@ -1,18 +1,18 @@
 ---
 title: "Peru: 10 Days on the Tourist Circuit"
 date: "2016-06-23"
-categories: 
+categories:
   - "travel"
 coverImage: "IMG_20160507_102128.jpg"
 ---
 
 Before meeting my sister Emily in Cusco, I took about 10 days to do a whirlwind tour of coastal and southern Peru involving lots of night buses.
 
-The geography of Peru is amazing. The Andes run in a thin strip down the center of the country, and with an _average_ height of 13,000 feet, they create a huge weather barrier. However, unlike in most countries, in Peru it is the _coastal_ side that is dry - one of the driest deserts on earth, in fact. The interior side, on the other hand, is incredibly wet and inaccessible. Much of it is part of the Amazon rain forest, and it includes the source of the Amazon river.
+The geography of Peru is amazing. The Andes run in a thin strip down the center of the country, and with an *average* height of 13,000 feet, they create a huge weather barrier. However, unlike in most countries, in Peru it is the *coastal* side that is dry - one of the driest deserts on earth, in fact. The interior side, on the other hand, is incredibly wet and inaccessible. Much of it is part of the Amazon rain forest, and it includes the source of the Amazon river.
 
 The image below shows a bit of this diversity. Superimposed here is my 10-day path from Lima (the capital), to Paracas, and then to Arequipa, Puno (Lake Titicaca), and finally Cusco.
 
-\[caption id="attachment\_1095" align="aligncenter" width="433"\][![Peru, on the northwest coast of South America, consists of a very serious coastal desert on the west coast, a the Amazon rainforest on the east, and the Andes mountains forming a barrier in between.](images/sketch-1466625742592-433x600.png)](http://www.rdchambers.net/wp-content/uploads/2016/06/sketch-1466625742592.png) Peru, on the northwest coast of South America, consists of a very serious coastal desert on the west coast, the Amazon rainforest on the east, and the Andes mountains forming a barrier in between.\[/caption\]
+\[caption id="attachment_1095" align="aligncenter" width="433"\][![Peru, on the northwest coast of South America, consists of a very serious coastal desert on the west coast, a the Amazon rainforest on the east, and the Andes mountains forming a barrier in between.](images/sketch-1466625742592-433x600.png)](/wp-content/uploads/2016/06/sketch-1466625742592.png) Peru, on the northwest coast of South America, consists of a very serious coastal desert on the west coast, the Amazon rainforest on the east, and the Andes mountains forming a barrier in between.\[/caption\]
 
 ### Paracas (Las Islas Ballistas)
 
@@ -28,11 +28,11 @@ I had always been fascinated by this type of otherworldly ecosystem on nature do
 
 ### Arequipa
 
-Although Arequipa is Peru's second-largest city, it is _much_ smaller than the capital city of Lima (1 million vs. 10 million people). That might be one reason why it felt so much more compact and livable. One of my favorite aspects of Arequipa were the nearby rivers and the three ~19,000 ft volcanoes that overlook the city. [![IMG_20160506_154326](images/IMG_20160506_154326-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160506_154326.jpg)
+Although Arequipa is Peru's second-largest city, it is *much* smaller than the capital city of Lima (1 million vs. 10 million people). That might be one reason why it felt so much more compact and livable. One of my favorite aspects of Arequipa were the nearby rivers and the three ~19,000 ft volcanoes that overlook the city. [![IMG_20160506_154326](images/IMG_20160506_154326-600x450.jpg)](/wp-content/uploads/2016/06/IMG_20160506_154326.jpg)
 
 The main square and cathedral were also gorgeous, especially silhouetted against the magnificent terrain.
 
-[![IMG_20160506_162058](images/IMG_20160506_162058-600x324.jpg)](http://www.rdchambers.net/wp-content/uploads/2016/06/IMG_20160506_162058.jpg)
+[![IMG_20160506_162058](images/IMG_20160506_162058-600x324.jpg)](/wp-content/uploads/2016/06/IMG_20160506_162058.jpg)
 
 ### Arequipa to Puno
 
@@ -52,6 +52,6 @@ Still, I found the visit to be fascinating, and the local people to be incredibl
 
 \[gallery type="rectangular" ids="1069,1070,1071,1072"\]
 
- 
+
 
 After Puno, I continued on through the beautiful Peruvian highlands to Cusco, where I met my sister Emily and her boyfriend Brian for a magnificent trip to Macchu Picchu (detailed in another blog post).

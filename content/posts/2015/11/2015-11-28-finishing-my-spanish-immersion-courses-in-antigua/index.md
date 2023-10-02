@@ -1,7 +1,7 @@
 ---
 title: "Finishing my Spanish Immersion Courses in Antigua"
 date: "2015-11-28"
-categories: 
+categories:
   - "travel"
 coverImage: "12238237_10204088157079057_3181491648613946422_o.jpg"
 ---
@@ -16,7 +16,7 @@ I considered heading on to Xela (Quetzaltenango), a relatively large, diverse, a
 
 Antigua was once the capital of Guatemala, but it was abandoned following a huge earthquake in 1773. It has since been re-inhabited and listed as a UNESCO world heritage site. A concentrated effort by the city to encourage tourism (largely by becoming the go-to destination for learning Spanish in central America) has helped to become surprisingly safe, clean, well-preserved, and prosperous compared to many other Guatemalan cities. Although it's nearly equatorial, its elevation of about 1 mile means that the temperature is mild and pleasant year-round.
 
-\[caption id="attachment\_860" align="aligncenter" width="600"\][![The main street in Antigua, with Agua in the background. ](images/IMG_20151117_075302-600x338.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/11/IMG_20151117_075302.jpg) The main street in Antigua, with the volcano Agua in the background.\[/caption\]
+\[caption id="attachment_860" align="aligncenter" width="600"\][![The main street in Antigua, with Agua in the background. ](images/IMG_20151117_075302-600x338.jpg)](/wp-content/uploads/2015/11/IMG_20151117_075302.jpg) The main street in Antigua, with the volcano Agua in the background.\[/caption\]
 
 Antigua is famous for its grid of charming one-story buildings, its cobblestone streets, and its backdrop of impressive and ominously close-by volcanoes. Although I wouldn't have wanted to stay too long if were simply traveling, I found the city to be great for relaxing and taking Spanish and Salsa lessons. I particularly enjoyed how easy it was to get around as a pedestrian on the cobblestone streets (which tended to slow down traffic to a crawl). I also loved watching the surrounding volcanoes, which were big enough to create small weather and cloud systems of their own. One night, the volcano Fuego was erupting so strongly that I was able to easily capture it on my smartphone camera.
 
@@ -42,13 +42,13 @@ My favorite activity in Antigua was climbing the mostly-dormant Acatenango Volca
 
 While in Antigua, I stayed with a great homestay family: parents Renee and Zincrid, and children Stephanie and Reneecito. The parents were in a salsa band that played several times per week in town, but music ran in the blood of the entire family. They were an exciting and interesting family to visit, and their very modern house even had real hot water, a rarity in Guatemala.
 
-\[caption id="attachment\_864" align="aligncenter" width="600"\][![IMG_20151121_000510](images/IMG_20151121_000510-600x338.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/11/IMG_20151121_000510.jpg) Zincrid on-stage with the family's salsa band, with family friend Jorge on keyboards. The dance floor was cleared for the two best dancers I've ever seen.\[/caption\]
+\[caption id="attachment_864" align="aligncenter" width="600"\][![IMG_20151121_000510](images/IMG_20151121_000510-600x338.jpg)](/wp-content/uploads/2015/11/IMG_20151121_000510.jpg) Zincrid on-stage with the family's salsa band, with family friend Jorge on keyboards. The dance floor was cleared for the two best dancers I've ever seen.\[/caption\]
 
 ### Salsa Lessons
 
 Although I was a bit less serious about Spanish in Antigua than I was in San Pedro, I did get a chance to learn how to Salsa dance. I got to try some group lessons, some private lessons, and eventually I even began to go out at night to the Salsa clubs in Antigua. I loved it - it's a fun, healthy, and interesting way to spend a night out. I hope to continue learning salsa and other latin dances so I can keep it up in a few months when I return to Latin America.
 
-\[video width="1280" height="720" mp4="http://www.rdchambers.net/wp-content/uploads/2015/11/Salsa.mp4"\]\[/video\]
+\[video width="1280" height="720" mp4="/wp-content/uploads/2015/11/Salsa.mp4"\]\[/video\]
 
 _Video: Salsa dancing lessons with my teacher, Nancy, in Antigua. She's awesome at salsa dancing, and totally tones it down so as not to embarrass me._
 

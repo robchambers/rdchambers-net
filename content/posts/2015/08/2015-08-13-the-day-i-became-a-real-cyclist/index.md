@@ -1,7 +1,7 @@
 ---
 title: "The Day I Became A Real Cyclist"
 date: "2015-08-13"
-categories: 
+categories:
   - "travel"
 coverImage: "SAM_0615.jpg"
 ---
@@ -20,7 +20,7 @@ At the end of the day I was feeling like I was becoming a real cyclist, and I wa
 
 That night we enjoyed the company of some fellow cyclists from England, with whom we shared a camper site, since all the other spots at the campground were full. We treated ourselves to a nice dinner at the nearby restaurant and then slept like dead people!
 
-\[caption id="attachment\_630" align="alignnone" width="450"\][![Enjoying dinner after patching up the burn from the motorcycle accident.](images/IMG_20150809_201751-450x600.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/08/IMG_20150809_201751.jpg) Enjoying dinner after patching up the burn from the motorcycle accident.\[/caption\]
+\[caption id="attachment_630" align="alignnone" width="450"\][![Enjoying dinner after patching up the burn from the motorcycle accident.](images/IMG_20150809_201751-450x600.jpg)](/wp-content/uploads/2015/08/IMG_20150809_201751.jpg) Enjoying dinner after patching up the burn from the motorcycle accident.\[/caption\]
 
 Since that one big day I've noticed a huge difference in my ability to tackle big hills. Even though it still feels really hard sometimes (especially when it's really hot out,) I can get up pretty much every hill with just a few breaks and I haven't walked at all since that day. I'm looking forward to joining some cycling clubs in Boston when I return and doing some research to set up the bike of my dreams!
 

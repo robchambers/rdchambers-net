@@ -1,7 +1,7 @@
 ---
 title: "La Loire a Velo: St. Nazaire to Angers (France)"
 date: "2015-08-09"
-categories: 
+categories:
   - "travel"
 coverImage: "SAM_0515.jpg"
 ---
@@ -16,19 +16,19 @@ We had a reservation for ourselves and our bike on the train (thanks again, Juli
 
 # Day 1: St Nazaire to Le Mignon Campground
 
- 
+
 
 St Nazaire is an oceanfront port that also has some nice oceanfront beaches. Currently, it's semi-famous for being home to the two battleships that France is currently refusing to sell to Russia, as part of some well-publicized EU sanctions.
 
 The city is just across the Loire river from the starting point of the trail. Unfortunately, the bridge that we had to cross, which looked quite approachable on Google Maps, was a bit terrifying in person:
 
- 
 
-\[caption id="attachment\_591" align="alignnone" width="600"\][![SAMSUNG CAMERA PICTURES](images/SAM_0515-600x463.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/02/SAM_0515.jpg) The St. Nazaire bridge was not especially bike-friendly.\[/caption\]
+
+\[caption id="attachment_591" align="alignnone" width="600"\][![SAMSUNG CAMERA PICTURES](images/SAM_0515-600x463.jpg)](/wp-content/uploads/2015/02/SAM_0515.jpg) The St. Nazaire bridge was not especially bike-friendly.\[/caption\]
 
 The bridge is very large, somewhat steep, and it has a very narrow shoulder/bike lane. Apparently, some riders wait a few hours to take a city bus across the bridge. The problem isn't necessarily the width of the bike lane--it's the extremely high winds that affect both the bikes and the cars. If we had been more used to riding our loaded bikes, we might have tried it. As it was, we decided to just walk across on the narrow sidewalk. It took a long time and it was super annoying.
 
- 
+
 
 \[gallery type="rectangular" link="file" ids="598,602,601"\]
 
@@ -38,11 +38,11 @@ However, we eventually made it. The first day of riding was pleasant and unevent
 
 So far, camping has been easy to manage and really pleasant (thanks in no small part to the amazing weather). It has been one of our favorite parts of the trip.
 
- 
+
 
 <iframe src="https://www.strava.com/activities/361126740/embed/f2c5f44cef7cdf4c5bee38706a45e026bd1ff0bc" width="590" height="405" frameborder="0" scrolling="no"></iframe>
 
- 
+
 
 # Day 2: Le Mignon to Nantes
 
@@ -58,15 +58,15 @@ We also checked out Le grand éléphant at Les Machines de l'île. This huge, m
 
 (note: you do not have to watch this whole video, there is no 'surprise' ending :) )
 
-\[video width="600" height="360" mp4="http://www.rdchambers.net/wp-content/uploads/2015/02/VID\_20150806\_110719.mp4"\]\[/video\]
+\[video width="600" height="360" mp4="/wp-content/uploads/2015/02/VID_20150806_110719.mp4"\]\[/video\]
 
 We wanted to go into the shop where they make the machines, but the line was unrealistically long. So, we moved on to an awesome little shopping mall where I got a bunch of sweets that Julie recommended. They were, of course, awesome.
 
-[![IMG_20150806_123104](images/IMG_20150806_123104-450x600.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/02/IMG_20150806_123104.jpg)
+[![IMG_20150806_123104](images/IMG_20150806_123104-450x600.jpg)](/wp-content/uploads/2015/02/IMG_20150806_123104.jpg)
 
 Finally, we went to the one Julie Lamarche-approved Creperie in the entire world--she said that her "love for crepes comes from this creperie". It was, indeed, delicious.
 
-\[caption id="attachment\_583" align="alignnone" width="450"\][![IMG_20150806_130931](images/IMG_20150806_130931-450x600.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/02/IMG_20150806_130931.jpg) I've never met a crepe I didn't like, and this was no exception.\[/caption\]
+\[caption id="attachment_583" align="alignnone" width="450"\][![IMG_20150806_130931](images/IMG_20150806_130931-450x600.jpg)](/wp-content/uploads/2015/02/IMG_20150806_130931.jpg) I've never met a crepe I didn't like, and this was no exception.\[/caption\]
 
 When we got back to the hostel to pick up our bikes, I discovered that I had an extra pastry left from the shop that Julie recommended. Dee snapped this series of candid, unstaged photos, which you may enjoy.
 
@@ -74,7 +74,7 @@ When we got back to the hostel to pick up our bikes, I discovered that I had an 
 
 <iframe src="https://www.strava.com/activities/361757160/embed/dfc23b51caf0c32afef4c80555bf865e30265972" width="590" height="405" frameborder="0" scrolling="no"></iframe>
 
- 
+
 
 # Day 3: Nantes to Oudon
 
@@ -90,9 +90,9 @@ A chain breaking is a pretty typical bike problem, but I've taken the absurd app
 
 Basically, the bike worked, but it was entirely untrustworthy. So, we slowly pedaled to the only bike shop we could find in Ancenis and... of course... it was closed for the month of August. Ugh. I was close to despair, but luckily, a Frenchman ( who spoke absolutely zero English ) understood our plight and took me in his car to a nearby general-purpose machinery store. It turned out they had all of the right parts, and even a mechanic who happily fixed the bike.
 
- 
 
-\[caption id="attachment\_580" align="alignnone" width="600"\]![IMG_20150807_154810](images/IMG_20150807_154810-600x600.jpg) The bike mechanic in Ancenis, who replaced my chain and re-adjusted some gearing.\[/caption\]
+
+\[caption id="attachment_580" align="alignnone" width="600"\]![IMG_20150807_154810](images/IMG_20150807_154810-600x600.jpg) The bike mechanic in Ancenis, who replaced my chain and re-adjusted some gearing.\[/caption\]
 
 I watched him closely to see how he did it, bought a few extra spare parts, and did some reading--and now I'd feel comfortable dealing with most chain or derailleur issues on the trail. I also tuned up my gearing, and my gears are finally switching easily again.
 
@@ -105,7 +105,7 @@ Lessons learned:
 - Knowing how to fix the bike is important.
 - If I can't fix it, there will always be people around to help.
 
- 
+
 
 <iframe src="https://www.strava.com/activities/363485279/embed/19b4c7d4dd38d7f0f06986db4582d1d0c27c4877" width="590" height="405" frameborder="0" scrolling="no"></iframe>
 
@@ -115,7 +115,7 @@ Day 6 was our longest day yet. We finally succeeded in getting out of camp early
 
 The day ended with checking into our cheap hotel near Angers. The receptionist was out between 11am and 5pm, so we used the 'Reception Automatique', which looked like an ATM machine. After a great deal of thinking and processing, it coughed out some key cards. Cool!
 
-\[caption id="attachment\_582" align="alignnone" width="600"\]![IMG_20150808_163609](images/IMG_20150808_163609-600x450.jpg) The automated hotel receptionist\[/caption\]
+\[caption id="attachment_582" align="alignnone" width="600"\]![IMG_20150808_163609](images/IMG_20150808_163609-600x450.jpg) The automated hotel receptionist\[/caption\]
 
 We walked through the deserted hotel to our room (the hotel was pitch black, but motion-sensing lights would turn on for a few seconds as we walked under them). It felt distinctly like a self-storage building for people. Unfortunately, our miniature hotel room was covered in someone else's trash - it hadn't been cleaned. And, we discovered the downside of the Reception Automatique: no matter how much you complain, plead, or swear, it just keeps trying to check you in.
 

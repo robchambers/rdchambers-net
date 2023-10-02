@@ -1,9 +1,9 @@
 ---
 title: "En Route"
 date: "2010-06-03"
-categories: 
+categories:
   - "travel"
-tags: 
+tags:
   - "india2010"
 coverImage: "P1000087_thumb6.jpg"
 ---
@@ -12,7 +12,7 @@ I accepted a job in New Hampshire and finally have a concrete plan, so I’m now
 
 First off, I had to ship all of my stuff to Pennsylvania. Neither the post office, nor the people standing behind me in line, were thrilled about this choice. But hey, it was about 80% cheaper than using a moving company.
 
-[![P1000087](images/P1000087_thumb6-225x300.jpg "P1000087")](http://www.rdchambers.net/wp-content/uploads/2010/06/P1000087_thumb6.jpg)
+[![P1000087](images/P1000087_thumb6-225x300.jpg "P1000087")](/wp-content/uploads/2010/06/P1000087_thumb6.jpg)
 
 My plan is to head up North to Dharamsala (where the Dalai Llama and the Tibetan Government in Exile reside), then perhaps further Northwest to Leh (which is accessible only in the summer). Jaclyn will then meet in in Delhi around 6/17 and we’ll head down South to Agra, Goa, and Kerala (all beautiful cities).
 
@@ -83,13 +83,13 @@ Misc
 Identity, etc.
 
 - Wallet (kept on my person) with:
-    - Credit Card
-    - Debit/ATM Card
-    - Passport
-    - List of contact info, insurance numbers, etc.
+  - Credit Card
+  - Debit/ATM Card
+  - Passport
+  - List of contact info, insurance numbers, etc.
 - Backup pouch in backpack with:
-    - CA Driver’s license
-    - Spare Debit/ATM Card
-    - Paper copies of passport, contact info, insurance #s
-    - Spare cash (Indian and American currencies)
+  - CA Driver’s license
+  - Spare Debit/ATM Card
+  - Paper copies of passport, contact info, insurance #s
+  - Spare cash (Indian and American currencies)
 - Additionally, I email myself images of all of the above.

@@ -1,9 +1,9 @@
 ---
 title: "Paris and Versailles"
 date: "2015-08-04"
-categories: 
+categories:
   - "travel"
-tags: 
+tags:
   - "gappaticaltirement"
 coverImage: "SAM_0437.jpg"
 ---
@@ -12,7 +12,7 @@ coverImage: "SAM_0437.jpg"
 
 My four days in Paris have been wonderful-I've been impressed by the city and by the French in just about every way. The good parts were just as good as expected: the food, the tourist sights, and well-dressed Parisians. And, the bad parts didn't really materialize.
 
-I'd heard that waiters and shopkeepers were rude, and that people refused to speak English. But, I found the shopkeepers and waiters to be entirely pleasant. They certainly didn't always _fawn_ over their customers, but most were friendly and all were extremely professional and serious about their jobs. I find the level of service to be far better in the US, _especially_ from government-owned services. And, perhaps I'm too dense to notice, but I never felt mistreated for speaking English--in fact, the French seem to me to be more tolerant of foreign languages than people in the US.
+I'd heard that waiters and shopkeepers were rude, and that people refused to speak English. But, I found the shopkeepers and waiters to be entirely pleasant. They certainly didn't always *fawn* over their customers, but most were friendly and all were extremely professional and serious about their jobs. I find the level of service to be far better in the US, *especially* from government-owned services. And, perhaps I'm too dense to notice, but I never felt mistreated for speaking English--in fact, the French seem to me to be more tolerant of foreign languages than people in the US.
 
 Paris was exceedingly easy to navigate. Within minute of arriving, I had a working Europe-wide SIM card and I was getting turn-by-turn directions. Besides, streets are well-labeled and the train system is fantastic and affordable. Food was reasonably priced and really good (granted, I was dining cheaply).
 
@@ -26,7 +26,7 @@ Of course, I continued on to see other sites. The place de la concorde featured 
 
 \[gallery type="rectangular" link="file" ids="519,520,521,526,528,527,525,524"\]
 
- 
+
 
 After touring downtown Paris, I set up a walking tour of the Musee d'Orsay. It had been recommended to me so strongly by my dad and by TripAdvisor (of course it was your opinion that counted, Dad!) that I chose to make it the one Parisian museum I would visit.
 
@@ -34,9 +34,9 @@ The museum did not disappoint, and neither did our tour guide. I usually find un
 
 \[gallery type="rectangular" ids="539,536,538,537"\]
 
-I was glad to get out and enjoy the sights of Paris, since I stayed at the worst hostel in the world. It was actually clean and well-decorated, but it was _unbelievably_ loud, and a lot of the travelers there basically just wanted to party but couldn't afford a hotel to do it in. Still, I was lucky to make a like-minded German friend named Henrik, who showed me around some beautiful parks.
+I was glad to get out and enjoy the sights of Paris, since I stayed at the worst hostel in the world. It was actually clean and well-decorated, but it was *unbelievably* loud, and a lot of the travelers there basically just wanted to party but couldn't afford a hotel to do it in. Still, I was lucky to make a like-minded German friend named Henrik, who showed me around some beautiful parks.
 
-\[caption id="attachment\_541" align="alignnone" width="600"\][![Hanging out with Henrik at a nearby park](images/IMG_20150801_115830-1-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/08/IMG_20150801_115830-1.jpg) Hanging out with Henrik at a nearby park\[/caption\]
+\[caption id="attachment_541" align="alignnone" width="600"\][![Hanging out with Henrik at a nearby park](images/IMG_20150801_115830-1-600x450.jpg)](/wp-content/uploads/2015/08/IMG_20150801_115830-1.jpg) Hanging out with Henrik at a nearby park\[/caption\]
 
 ## Versailles
 
@@ -48,7 +48,7 @@ I spent most of the time doing a bike tour of the gardens. We visited a local m
 
 I thought the most entertaining part of the tour was visiting Marie Antoinette's 'Austrian Village'. The story is that Antoinette, who was originally Austrian and a bit of a diva, was homesick for her native country. So, she ordered that a model Austrian village be built on the grounds of Versailles. It has a surreal, Disneyland-ish feel to it: the thatched-roof cottages are tasteful and sumptuously maintained, and the village just screams 'Austria'.
 
-\[caption id="attachment\_551" align="alignnone" width="600"\][![Hameau de la Reine: Marie Antoinette's fake Austrian village at Versailles](images/SAM_0429-600x384.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/08/SAM_0429.jpg) Hameau de la Reine: Marie Antoinette's fake Austrian village at Versailles\[/caption\]
+\[caption id="attachment_551" align="alignnone" width="600"\][![Hameau de la Reine: Marie Antoinette's fake Austrian village at Versailles](images/SAM_0429-600x384.jpg)](/wp-content/uploads/2015/08/SAM_0429.jpg) Hameau de la Reine: Marie Antoinette's fake Austrian village at Versailles\[/caption\]
 
 However, the water wheel doesn't work, and the villagers and all of the food and 'fresh-milled flour' had to be brought in each morning from an actual village. The entire thing is a sham--a facade. And, the most delicious part of it is how much it must have pissed off the French nobles (who hated Antoinette to begin with)--that she would squander so much of France's wealth to create a fake Austrian village just to escape them.
 

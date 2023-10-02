@@ -1,9 +1,9 @@
 ---
 title: "Gappaticaltirement (2015-?)"
 date: "2015-05-08"
-categories: 
+categories:
   - "travel"
-tags: 
+tags:
   - "gappaticaltirement"
 coverImage: "wpid-sam_01512.jpg.jpeg"
 ---
@@ -26,7 +26,7 @@ The idea has gained momentum over time. It started with multi-day hikes and my s
 
 A couple of years ago, I started seriously saving money just in case I decided to go through with this, and I noted my 5-year anniversary at [Creare](http://www.creare.com) (July 2015) as a reasonable time to get started. A few months ago I finally decided to go through with it, and instantly knew that it was the right decision. I re-homed my two dogs (a very tough decision), began moving all of my records and organizational systems online, informed my supervisors at Creare, and started downsizing. Then in the last few weeks, I sold my house and started making any final preparations.
 
-\[caption id="attachment\_446" align="aligncenter" width="600"\][![6 Williams St - For Sale](images/SAM_0154-600x277.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/05/SAM_0154.jpg) 6 Williams St - For Sale\[/caption\]
+\[caption id="attachment_446" align="aligncenter" width="600"\][![6 Williams St - For Sale](images/SAM_0154-600x277.jpg)](/wp-content/uploads/2015/05/SAM_0154.jpg) 6 Williams St - For Sale\[/caption\]
 
 I'll especially miss the relationships and awesome projects I got to experience at Creare. I've gotten to work on amazing projects with incredibly competent people who have become my close friends, and I was afforded a ton of freedom to learn and to try new things. I wish I could pull off the gappaticaltirement without leaving, but alas, it cannot be.
 

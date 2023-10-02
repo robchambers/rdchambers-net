@@ -1,16 +1,16 @@
 ---
 title: "Au revoir, France! One country down, nine more to go."
 date: "2015-08-28"
-categories: 
+categories:
   - "travel"
 coverImage: "IMG_20150826_1132262.jpg"
 ---
 
 Last night I crossed over from France to Switzerland. I was in France for around 1200km (740 miles), which is about a third of the length of Euro Velo 6. It took me about three and a half weeks to do it, but I sped up  as time went on. I now average about 90km a day. At that pace, it will take another 25 days of biking to finish, and it will take even less if my mileage improves.
 
-Entering a new country on bicycle is _really_ different than doing it in a car, train, or plane. The anticipation builds for days as the countries' different architectures begin to mix, and as you notice distances to foreign cities marked out on signposts. As you get really close, you start to hear different languages and see joggers and bicyclists from the other country. By the time you hit the border, you've had so much time to think about it that it really feels like a momentous event, like a real accomplishment. The point where I crossed into Switzerland was the "Bridge of Three Countries" - one side was in France, and the other was at the border of Germany and Switzerland. It sure would have been an interesting place to be in WWII...
+Entering a new country on bicycle is *really* different than doing it in a car, train, or plane. The anticipation builds for days as the countries' different architectures begin to mix, and as you notice distances to foreign cities marked out on signposts. As you get really close, you start to hear different languages and see joggers and bicyclists from the other country. By the time you hit the border, you've had so much time to think about it that it really feels like a momentous event, like a real accomplishment. The point where I crossed into Switzerland was the "Bridge of Three Countries" - one side was in France, and the other was at the border of Germany and Switzerland. It sure would have been an interesting place to be in WWII...
 
-\[caption id="attachment\_691" align="alignnone" width="600"\][![Ready to cross the Three Countries Bridge into Switzerland](images/IMG_20150827_184810-600x335.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/08/IMG_20150827_184810.jpg) Ready to cross the Three Countries Bridge into Switzerland\[/caption\]
+\[caption id="attachment_691" align="alignnone" width="600"\][![Ready to cross the Three Countries Bridge into Switzerland](images/IMG_20150827_184810-600x335.jpg)](/wp-content/uploads/2015/08/IMG_20150827_184810.jpg) Ready to cross the Three Countries Bridge into Switzerland\[/caption\]
 
 I loved visiting France, and I'm so glad to have been able to spend so much time there. I will miss their vastly superior yogurt (allegedly, it is so superior because it is unpasteurized, which is of course ironic because Pasteur was French...). But even more than yogurt, I will miss the cheese.
 

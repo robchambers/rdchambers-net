@@ -1,14 +1,14 @@
 ---
 title: "Biking across Europe on Euro Velo 6"
 date: "2015-07-31"
-categories: 
+categories:
   - "travel"
 coverImage: "route.jpg"
 ---
 
 I've just started what I expect will be the longest trip I've ever taken. The plan is to take 3 months to bike across Europe on a route called Euro Velo 6, or 'The Rivers Route'. (See the [official site](http://www.eurovelo.com/en/eurovelos/eurovelo-6), or the [interactive map](http://www.bikemap.net/en/official/2938-eurovelo-6/)). The 2,270 mile route is the most well-developed of the [Euro Velo Routes](http://www.eurovelo.com/en/eurovelos). It follows the Loire river through France and into Germany, and then it follows the Danube out to the Black Sea. Along the way, it crosses through France, Switzerland, Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Romania, and Bulgaria. Most of the route, at least on Western Europe, is on dedicated bike paths and bike lanes.
 
-\[caption id="attachment\_497" align="alignnone" width="600"\]![route](images/route-600x405.jpg) Map of Euro Velo 6, the Rivers Route\[/caption\]
+\[caption id="attachment_497" align="alignnone" width="600"\]![route](images/route-600x405.jpg) Map of Euro Velo 6, the Rivers Route\[/caption\]
 
 Why 3 months? Because that's how long you can stay in continental Europe (actually, the Schenzhen area) on a US passport. Of course, I could end early, or I could travel onwards to a place ouside of the Shenzhen area like Turkey, the UK, or... err... Ukraine.  But, 3 months would mean 25 miles/day. I expect to do more like 50 per day, which would give mean that I'd bike half of the days, and have the remaining half to explore Europe, like I'm doing now in Paris. In particular, I'd love to settle down for a couple of weeks in a place like Austria. So, 3 months seems like just about the right length of time.
 
@@ -30,23 +30,23 @@ I chose the CTC bike bag, and I recommend it wholeheartedly. Per airline rules, 
 
 The bike arrived in Paris in great shape. I had to throw out the bike bag, mostly because my exuberant duct-taping job had prevented it from ever being bag-shaped again. In the airport arrivals hall, I re-assembled the drive train, righted the handlebars, and attached the pedals. It drew some curious attention from onlookers, and even some help. The only damaged parts were the taillight (which I should have removed) and the front fender (which was partially broken anyways).
 
- 
 
-\[caption id="attachment\_493" align="alignnone" width="600"\][![IMG_20150729_080938](images/IMG_20150729_080938-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/07/IMG_20150729_080938.jpg) Re-assembling my bike in the arrivals hall of Charles de Gaulle Airport\[/caption\]
 
- 
+\[caption id="attachment_493" align="alignnone" width="600"\][![IMG_20150729_080938](images/IMG_20150729_080938-600x450.jpg)](/wp-content/uploads/2015/07/IMG_20150729_080938.jpg) Re-assembling my bike in the arrivals hall of Charles de Gaulle Airport\[/caption\]
 
- 
 
- 
 
-\[caption id="attachment\_491" align="alignnone" width="600"\][![IMG_20150729_084023](images/IMG_20150729_084023-600x421.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/07/IMG_20150729_084023.jpg) The reassembled and fully operational bike, still in the airport.\[/caption\]
 
- 
+
+
+
+\[caption id="attachment_491" align="alignnone" width="600"\][![IMG_20150729_084023](images/IMG_20150729_084023-600x421.jpg)](/wp-content/uploads/2015/07/IMG_20150729_084023.jpg) The reassembled and fully operational bike, still in the airport.\[/caption\]
+
+
 
 In a fit of irrationality, I then decided to bike straight from the airport into Paris, instead of simply putting my bike on the train. Luckily, someone had put together an [incredibly detailed set of instructions on doing this](http://www.mayq.com/Cycling_out_of_paris/Airports/Charles_de_Gaulle.htm), which I failed to accurately follow. However, once I'd gotten away from the area around the airport, the ride was incredibly pleasant. Most of it followed a beautiful bike path along a canal. Even in the city, the bike paths were well-defined and safe. I had bought a European SIM card at the airport, so I even had turn-by-turn bike navigation the whole way to the hostel.
 
-\[caption id="attachment\_496" align="alignnone" width="600"\][![Bike path along a canal going from CDG airport to Paris](images/SAM_0340-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/07/SAM_0340.jpg) Bike path along a canal going from CDG airport to Paris\[/caption\]
+\[caption id="attachment_496" align="alignnone" width="600"\][![Bike path along a canal going from CDG airport to Paris](images/SAM_0340-600x450.jpg)](/wp-content/uploads/2015/07/SAM_0340.jpg) Bike path along a canal going from CDG airport to Paris\[/caption\]
 
 Now, I'm hanging out at a hostel in Paris for 4 days, waiting for Dee arrive so we can start the cycling part of the journey.
 

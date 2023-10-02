@@ -1,7 +1,7 @@
 ---
 title: "Austria: Passua to Vienna"
 date: "2015-10-06"
-categories: 
+categories:
   - "travel"
 coverImage: "wpid-wp-1442670629252.jpg"
 ---
@@ -26,25 +26,25 @@ Anyways, I share these observations only because I was so surprised at my comple
 
 The section of the Danube bike path Austria from Passau, Germany to Vienna, Austria is the second most popular bike path in Europe (following the path around Lake Constance, which I also partially travelled).
 
-\[caption id="attachment\_771" align="alignnone" width="450"\][![danube_bike_path_austria](images/danube_bike_path_austria.jpeg)](http://www.rdchambers.net/wp-content/uploads/2015/09/danube_bike_path_austria.jpeg) The extremely popular Austrian section of the Danube bike path stretches from Passau (on the edge of Germany), then along the Austria-Germany border through a beautiful stretch of mountains to Linz, and then through rolling hills and plains of Austria, to Vienna (Wien).\[/caption\]
+\[caption id="attachment_771" align="alignnone" width="450"\][![danube_bike_path_austria](images/danube_bike_path_austria.jpeg)](/wp-content/uploads/2015/09/danube_bike_path_austria.jpeg) The extremely popular Austrian section of the Danube bike path stretches from Passau (on the edge of Germany), then along the Austria-Germany border through a beautiful stretch of mountains to Linz, and then through rolling hills and plains of Austria, to Vienna (Wien).\[/caption\]
 
 Around 600,000 people use the route every year, and 55,000 of them do the entire thing. As such, the tourist facilities are highly developed. The 340 km route is littered with convenient bathrooms, ferries, restaurants, and guesthouses (although, interestingly, the facilities were highly geared towards German speakers--I don't think this route is that popular with foreigners.)
 
 Most of the route follows beautiful gorges, vineyards, and small historic towns.
 
- 
+
 
 \[gallery type="rectangular" ids="766,765,763,769"\]
 
 The weather was pretty good for this section, except for a persistent and infuriating headwind.
 
-\[caption id="attachment\_751" align="alignnone" width="600"\][![wpid-wp-1442669437787.jpg](images/wpid-wp-1442669437787-600x338.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/09/wpid-wp-1442669437787.jpg) An infuriating headwind assailed me all through Austria, as demonstrated by the way the trees are swaying in this photo.\[/caption\]
+\[caption id="attachment_751" align="alignnone" width="600"\][![wpid-wp-1442669437787.jpg](images/wpid-wp-1442669437787-600x338.jpg)](/wp-content/uploads/2015/09/wpid-wp-1442669437787.jpg) An infuriating headwind assailed me all through Austria, as demonstrated by the way the trees are swaying in this photo.\[/caption\]
 
 ### Linz
 
 After Passau, this first major city on the route is Linz. On the one hand, Linz is the birthplace of Hitler and was planned as one of the industrial and cultural centers of the third reich. On the other hand, that seems to be behind it, and I found Linz to be a fascinating, beautiful, and easy-to-navigate city.
 
-\[caption id="attachment\_767" align="alignnone" width="1170"\][![wpid-wp-1442670629252.jpg](images/wpid-wp-1442670629252-2048x615.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/09/wpid-wp-1442670629252.jpg) Panorama of Linz, Austria taken from the fantastic Schlossmuseum (castle museum)\[/caption\]
+\[caption id="attachment_767" align="alignnone" width="1170"\][![wpid-wp-1442670629252.jpg](images/wpid-wp-1442670629252-2048x615.jpg)](/wp-content/uploads/2015/09/wpid-wp-1442670629252.jpg) Panorama of Linz, Austria taken from the fantastic Schlossmuseum (castle museum)\[/caption\]
 
 ### Mauthausen
 
@@ -58,25 +58,25 @@ I was surprised by my reaction to Mauthausen: I simply didn't want to be there. 
 
 After the depressing visit to Mauthausen, I was glad to visit Melk, home of a famous Benedictine Abbey. The abbey is truly incredible in its scale and decadence, especially since it sits in a rural and otherwise unassuming town. As a must-see stop for the cruise boats going up and down the Danube, it was swamped with throngs of tourists, a surprising number of whom were American.
 
-\[caption id="attachment\_756" align="alignnone" width="600"\][![Famous Benedictine Abbey (is there another type of abby?) at Melk.](images/wpid-wp-1442669539990-600x338.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/09/wpid-wp-1442669539990.jpg) Famous Benedictine Abbey (is there another type of abbey?) at Melk.\[/caption\]
+\[caption id="attachment_756" align="alignnone" width="600"\][![Famous Benedictine Abbey (is there another type of abby?) at Melk.](images/wpid-wp-1442669539990-600x338.jpg)](/wp-content/uploads/2015/09/wpid-wp-1442669539990.jpg) Famous Benedictine Abbey (is there another type of abbey?) at Melk.\[/caption\]
 
 ### Wild Camping
 
-As I approached Vienna, I decided to finally try 'wild camping': camping in the woods, without permission. Most cyclists I met never wild camped, but a minority of the cyclists wild camped _every night_, thereby gaining tons of flexibility and saving a lot of money. I personally don't mind paying for campsites, but the problem is that German and Austrian campsites were basically just parking lots.
+As I approached Vienna, I decided to finally try 'wild camping': camping in the woods, without permission. Most cyclists I met never wild camped, but a minority of the cyclists wild camped *every night*, thereby gaining tons of flexibility and saving a lot of money. I personally don't mind paying for campsites, but the problem is that German and Austrian campsites were basically just parking lots.
 
-\[caption id="attachment\_764" align="alignnone" width="600"\][![wpid-wp-1442669746983.jpg](images/wpid-wp-1442669746983-600x278.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/09/wpid-wp-1442669746983.jpg) Typical campsite in Germany or Austria.\[/caption\]
+\[caption id="attachment_764" align="alignnone" width="600"\][![wpid-wp-1442669746983.jpg](images/wpid-wp-1442669746983-600x278.jpg)](/wp-content/uploads/2015/09/wpid-wp-1442669746983.jpg) Typical campsite in Germany or Austria.\[/caption\]
 
-They were crowded, featureless, and most importantly they didn't have _any_ free-standing trees where I could hang my backpacking hammock. So, wild camping it was!
+They were crowded, featureless, and most importantly they didn't have *any* free-standing trees where I could hang my backpacking hammock. So, wild camping it was!
 
-\[caption id="attachment\_752" align="alignnone" width="600"\][![wpid-wp-1442669452092.jpg](images/wpid-wp-1442669452092-600x450.jpg)](http://www.rdchambers.net/wp-content/uploads/2015/09/wpid-wp-1442669452092.jpg) My first wild-camping campsite.\[/caption\]
+\[caption id="attachment_752" align="alignnone" width="600"\][![wpid-wp-1442669452092.jpg](images/wpid-wp-1442669452092-600x450.jpg)](/wp-content/uploads/2015/09/wpid-wp-1442669452092.jpg) My first wild-camping campsite.\[/caption\]
 
 It only took me 10 or so minutes to find a nice, isolated patch of woods to camp in. My backpacking hammock blends in nicely with the forest, so I didn't worry about drawing attention.
 
-However, I must say, it is much more unnerving to camp alone in the woods, than to camp in a crowded campsite. I know that the woods are _statistically_ safe, but it is an eerie feeling to be alone, overnight, in a forest.
+However, I must say, it is much more unnerving to camp alone in the woods, than to camp in a crowded campsite. I know that the woods are *statistically* safe, but it is an eerie feeling to be alone, overnight, in a forest.
 
-As if to drive the point home, I woke in the middle of the night to an animal running full-speed through my camp. I was immediately wide awake. I told myself that it was probably a squirrel or something, since even small animals sound _enormous_ in the dark, in the woods.
+As if to drive the point home, I woke in the middle of the night to an animal running full-speed through my camp. I was immediately wide awake. I told myself that it was probably a squirrel or something, since even small animals sound *enormous* in the dark, in the woods.
 
-But, a few seconds later, I heard an animal (probably the same one that ran through the camp?)  _growling_ about twenty meters away. I'm pretty sure it wasn't a dog or a wolf; it was a very monotone growl. Still, it was terrifying. But, I told myself that, you know, the woods are _statistically_ safe. Eventually, I got back to sleep. Several people told that it was probably a wild boar, but I wonder if it wasn't just a deer or even something like a raccoon.
+But, a few seconds later, I heard an animal (probably the same one that ran through the camp?)  *growling* about twenty meters away. I'm pretty sure it wasn't a dog or a wolf; it was a very monotone growl. Still, it was terrifying. But, I told myself that, you know, the woods are *statistically* safe. Eventually, I got back to sleep. Several people told that it was probably a wild boar, but I wonder if it wasn't just a deer or even something like a raccoon.
 
 ### Vienna
 

@@ -1,14 +1,14 @@
 ---
 title: "The Taj Mahal"
 date: "2010-06-29"
-categories: 
+categories:
   - "travel"
-tags: 
+tags:
   - "india2010"
 coverImage: "P1000603_thumb1.jpg"
 ---
 
-[![P1000609](images/P1000609_thumb1-300x225.jpg "P1000609")](http://www.rdchambers.net/wp-content/uploads/2010/06/P1000609_thumb1.jpg)
+[![P1000609](images/P1000609_thumb1-300x225.jpg "P1000609")](/wp-content/uploads/2010/06/P1000609_thumb1.jpg)
 
 India has a great train system. The train are super-fast, and you can go most of the way across the country on a single overnight train.
 
@@ -16,7 +16,7 @@ Unfortunately, they are booked months in advance and, even with a “foreign tou
 
 Hence, Jaclyn and I had to give up on some of our more ambitious plans: Varanassi, Darjeeling, Kerala, etc.. However, we still managed to get tickets to Agra, home of the Taj Mahal.
 
-[![P1000613](images/P1000613_thumb1-300x224.jpg "P1000613")](http://www.rdchambers.net/wp-content/uploads/2010/06/P1000613_thumb1.jpg)
+[![P1000613](images/P1000613_thumb1-300x224.jpg "P1000613")](/wp-content/uploads/2010/06/P1000613_thumb1.jpg)
 
 The Taj is beautiful. Pictures really can’t do it justice. The entire palace is incredibly, uncompromisingly, symmetrical. Every detail is repeated with painstaking conformity in 2, 4, 8, 16, or even more places. In fact, the entire complex was meant to be repeated across the river (in black), but the king’s sons felt the project to be so wasteful that they had him dethroned on charges of insanity.
 
@@ -24,7 +24,7 @@ The Taj is beautiful. Pictures really can’t do it justice. The entire palace i
 
 Plus, the marble itself is gorgeous—soft to the touch, remarkably uniform, and even a bit translucent.
 
-[![P1000616](images/P1000616_thumb1-300x226.jpg "P1000616")](http://www.rdchambers.net/wp-content/uploads/2010/06/P1000616_thumb1.jpg)
+[![P1000616](images/P1000616_thumb1-300x226.jpg "P1000616")](/wp-content/uploads/2010/06/P1000616_thumb1.jpg)
 
 As great as the Taj is, that’s how bad the city around it, Agra, has become. It’s filthy, corrupt, congested, and hostile to tourists (in a vicious sort of self-prostituting way). Several years ago, a ring of Agra “doctors” was busted for giving poison to keep ill tourists bed-ridden, while charging huge amounts to those tourists’ insurance companies for the ongoing “medical treatment”.
 
